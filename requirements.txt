@@ -1,7 +1,8 @@
-Pillow
-opencv-python
-numpy
 keyboard
-pyautogui
 mss
+numpy
+opencv-python
+Pillow
+pyautogui
 pydirectinput
+pygetwindow
