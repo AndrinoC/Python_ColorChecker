@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+numpy
+keyboard
+pyautogui
+mss
+pydirectinput

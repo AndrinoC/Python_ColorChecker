@@ -1,0 +1,19 @@
+{
+    "color1_rgb": [
+        204,
+        204,
+        204
+    ],
+    "color2_rgb": [
+        38,
+        120,
+        122
+    ],
+    "area_tolerance": 15,
+    "capture_box_size": 300,
+    "click_method": "LAB",
+    "click_button": "left",
+    "clicking_enabled": false,
+    "pause_hotkey": "ctrl+shift+x",
+    "toggle_click_hotkey": "ctrl+shift+c"
+}
